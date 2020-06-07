@@ -5,8 +5,8 @@
 	<channel>
 		<title>Monta Blog</title>
 		<description>Monta's Blog</description>
-		<link>http://montagao.github.io/blog/</link>
-		<atom:link href="http://montagao.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://monta.ca/blog/</link>
+		<atom:link href="http://monta.ca/blog/feed.xml" rel="self" type="application/rss+xml" />
 		{% assign posts = site.pages | where:"layout","post" | sort:"date" | reverse %}{% comment %}
 		{% endcomment %}{% for post in posts limit:20 %}{% comment %}
 			{% endcomment %}{% assign post_url = post.url | append: '\n' | replace: '/index.html\n', '/\n' | remove_first: '\n' %}{% comment %}
@@ -14,8 +14,8 @@
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.description | xml_escape }}</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>http://montagao.github.io{{ post_url }}</link>
-				<guid isPermaLink="true">http://montagao.github.io{{ post_url }}</guid>
+				<link>http://monta.ca{{ post_url }}</link>
+				<guid isPermaLink="true">http://monta.ca{{ post_url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
