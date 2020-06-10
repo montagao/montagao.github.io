@@ -5,7 +5,7 @@
 	<channel>
 		<title>Monta Writes Stuff</title>
 		<description>Personal blog of Monta Gao.</description>
-		<link>http://anthony-zhang.me/blog/</link>
+		<link>http://monta.ca/blog/</link>
 		<atom:link href="http://monta.ca/blog/feed.xml" rel="self" type="application/rss+xml" />
 		{% assign posts = site.pages | where:"layout","post" | sort:"date" | reverse %}{% comment %}
 		{% endcomment %}{% for post in posts limit:20 %}{% comment %}
@@ -14,8 +14,8 @@
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.description | xml_escape }}</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>http://anthony-zhang.me{{ post_url }}</link>
-				<guid isPermaLink="true">http://anthony-zhang.me{{ post_url }}</guid>
+				<link>http://mont.ca{{ post_url }}</link>
+				<guid isPermaLink="true">http://mont.ca{{ post_url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
