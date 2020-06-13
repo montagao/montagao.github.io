@@ -11,9 +11,16 @@ I also wasn't very good at it. Not that I didn't know how to write in English, o
 
 Here's the entry on my journal, marked September 13th, 2015
 
->Tomorrow is the day I officially start at the University of Waterloo. In many ways I feel like many things have culminated to this point. While I hold sentiments of nervousness, fear, and loneliness, I also feel an intense sense of excitement, pride, and ambition. Uneasy and stepping forward with trepidation, I now embark on what seems to me as the long and unforeseeable journey of my adult life.
+```
+Tomorrow is the day I officially start at the University of Waterloo.
+In many ways I feel like many things have culminated to this point. While I
+hold sentiments of nervousness, fear, and loneliness, I also feel an intense
+sense of excitement, pride, and ambition. Uneasy and stepping forward with
+trepidation, I now embark on what seems to me as the long and unforeseeable
+journey of my adult life.
+```
 
-I mean, what I wrote was proper English, for sure. But it sure as hell didn't represent what I actually thought. I tried to write in a way that represented what my "idea" of writing should be, based on the books and articles I've read, instead of just writing from the top of my head, and not worrying what people though of it. After all, I was writing for myself to read anyway, not some teacher or organization.
+I mean, what I wrote was proper English, for sure. But it sure as hell didn't represent what I actually thought. I tried to write in a way that represented what my "idea" of writing should be, based on the books and articles I've read, instead of just writing from the top of my head, and not worrying what people though of it. I was still stuck in the doctrined mindset, as if I was writing for some teacher or organization, and not for myself.
 
 Today when I write I constantly keep that thought in the back of my mind. I don't have to write the best prose, or come up with the best words, but as long as what I'm writing is as close to a one-to-one representation to my actual stream of thoughts, I consider the writing useful. I write to represent myself. The lack of filter, something that can't necessarily translate to a face-to-face conversation as easily, is one of the best merits of writing.
 
