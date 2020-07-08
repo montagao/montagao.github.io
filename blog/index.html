@@ -23,6 +23,7 @@
 			<span class="divider"></span>
 			<li><a href="https://www.facebook.com/gaozimu" class="contact">facebook</a></li>
 		</ul>
+		<p>Available as an <a href="feed.xml" class="feed">RSS feed</a>.</p>
 
 {% assign posts = site.pages | where:"layout","post" | sort:"date" | reverse %}{% for post in posts %}{% assign prefix = post.url | truncate:6,"" %}{% if prefix == "/blog/" %}
 		<div class="entry">
