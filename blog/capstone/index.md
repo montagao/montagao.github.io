@@ -94,7 +94,7 @@ Typically, the capstone project climaxes with a stuffy engineering building and 
 |:--:|
 |*Looks cool, but I don't think it can run Crysis.*|
 
-Unfortunately for us (this was around Februrary 2020), COVID-19 hit pandemic status, and the symposium was cancelled with no alternatives. Not long after, all in-person classes were cancelled too. People felt a mix of relief and disappointment, but when these things happen they're really out of our control, so I felt pretty indifferent.
+Unfortunately for us (this was around February 2020), COVID-19 hit pandemic status, and the symposium was cancelled with no alternatives. Not long after, all in-person classes were cancelled too. People felt a mix of relief and disappointment, but when these things happen they're really out of our control, so I felt pretty indifferent.
 
 
 
