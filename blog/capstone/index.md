@@ -106,6 +106,6 @@ Even though our Capstone was cut short by COVID-19, I enjoyed it far more than I
 
 Truth be told, I had a very pessimistic outlook on my whole education up until this point, because we never really build anything creative on our own in our regular courses. Going into this, I just wanted to get it over and done with. Near the end, I was feeling weird sense of pride and satisfaction.
 
-Capstone is rewarding in that sense because you can really put your own knowledge together and understand your own capabilities, given your knowledge of eletrical and computer engineering, as well as understand how a team of individuals can combine their efforts and make something much better than just the sum of each of their parts.
+Capstone is rewarding in that sense because you can really put your own knowledge together and understand your own capabilities, given your knowledge of electrical and computer engineering, as well as understand how a team of individuals can combine their efforts and make something much better than just the sum of each of their parts.
 
 We may not have been able to have much to show for it this time, but next time I build a somewhat challenging, multidisciplinary project, I'll have the much needed confidence of being able to say "Hey, I can actually do this!"
