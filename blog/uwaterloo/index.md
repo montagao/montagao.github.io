@@ -221,11 +221,11 @@ As an elective I took a course where we just read books and watched movies all d
 
 ### Spring 2018
 
-I worked on developing IoT device application software in C.
+I worked on developing IoT device application software in C at an Intel subsidiary company.
 
 ### 3B: Fall 2018
 
-Stopped caring all that much about school. Senioritis and such. Started drinking more. As you can see, I took 6 courses this term (overloaded) so I wasn't a huge fan of this term.
+Stopped caring all that much about school. Senioritis and such.  As you can see below, I took 6 courses (overloaded) so I wasn't a huge fan of this term.
 
 #### ECE 318: Analog and Digital Communications
 
@@ -238,7 +238,8 @@ Bad course with a cranky prof. Learned nothing.
 #### ECE 390: Engineering Economics
 
 Pointless course. Some mumbo jumbo about discounted cash flows.
-What am I, an accountant?
+What am I, an accountant (just kidding)? Would've been more useful if the course didn't have
+"engineering" attached to it, methinks.
 
 #### MSCI 432: Operations
 
@@ -259,10 +260,12 @@ I worked at Cisco Meraki in San Francisco, working on a live topology web applic
 ### 4A: Summer 2019
 
 #### ECE 327: Digital Hardware Systems
-At this point, I really stopped caring about school. Even though this was pretty recently finished, I remember nothing about this course, except that I asked the Prof to consult for our FYDP.
+At this point, I really stopped caring about school. Even though this was pretty recently finished, I remember nothing about this course, except that I asked the Prof to consult for our Capstone.
 
 #### ECE 380: Analog Control Systems
 Worst course. Won't ever use my knowledge I learned here for anything.
+
+Edit: Ok upon revisiting this I was pretty harsh here. The concept of feedback control systems is definitely useful, I was just being grumpy.
 
 #### ECE 458: Computer Security
 Practical course that I actually enjoyed. SQL injections, side-channel attacks, historical encrpytion vulnerabilites were all fun to learn and tinker with.
@@ -317,7 +320,6 @@ But all in all, in terms of getting a (software) job, most employers don't reall
 
 I will say that if I were to go back in time, I would choose CS instead for the following reasons:
 * Better math education
-* No more circuits
 * Cheaper tuition
 * More free time (?)
 
