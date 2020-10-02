@@ -51,7 +51,7 @@ The course UWaterloo makes us take for our capstone project does things pretty t
 
 ### Execution
 
-Once we had the planning done, we had to shop for parts and write more detailed requirements for the course requirements. I'll save you the boring paperwork and skip to the fun details.
+Once we had the planning done, we had to shop for parts and write more detailed requirements for the graded portions. I'll save you the boring paperwork and skip to the fun details.
 
 In the end, the hardware for our sentry consisted of:
 
@@ -92,7 +92,7 @@ Typically, the capstone project climaxes with a stuffy engineering building and 
 
 | ![What I missed out on](http://danhadi.com/blog/wp-content/uploads/2010/03/body_motion_analyzer.jpg.jpg) |
 |:--:|
-|*Looks cool, but I don't think it can run Crysis.*|
+|*(Monta not pictured)*|
 
 Unfortunately for us (this was around February 2020), COVID-19 hit pandemic status, and the symposium was cancelled with no alternatives. Not long after, all in-person classes were cancelled too. People felt a mix of relief and disappointment, but when these things happen they're really out of our control, so I felt pretty indifferent.
 
@@ -104,8 +104,8 @@ Unfortunately for us (this was around February 2020), COVID-19 hit pandemic stat
 
 Even though our Capstone was cut short by COVID-19, I enjoyed it far more than I thought I would.
 
-Truth be told, I had a very pessimistic outlook on my whole education up until this point, because we never really build anything creative on our own in our regular courses. Going into this, I just wanted to get it over and done with. Near the end, I was feeling weird sense of pride and satisfaction.
+Truth be told, I had a very pessimistic outlook on my whole education up until this point, because we never really build anything too creative on our own in our regular courses. Going into this, I just wanted to get it over and done with. Near the end, I was feeling weird sense of pride and satisfaction.
 
 Capstone is rewarding in that sense because you can really put your own knowledge together and understand your own capabilities, given your knowledge of electrical and computer engineering, as well as understand how a team of individuals can combine their efforts and make something much better than just the sum of each of their parts.
 
-We may not have been able to have much to show for it this time, but next time I build a somewhat challenging, multidisciplinary project, I'll have the much needed confidence of being able to say "Hey, I can actually do this!"
+We may not have been able to have _much_ to show for it this time, but next time I build a somewhat challenging, multidisciplinary project, I'll have the much needed confidence of being able to say "Hey, I can actually do this!"

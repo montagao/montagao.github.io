@@ -46,25 +46,28 @@ And some less abstract ones:
 
 * walking from Toronto to New York (apparently it would take 6 days of straight walking without breaks)
 * writing 1000000 digits of pi by hand
-* having a baby 
+* having a baby
 
 For any of these problems, there's no getting around the significant time requirement to achieve them. It seems to apply to any sort of skill, as well as anything related to developing your own set of mental tools, such as mindfulness, or personal knowledge. You can't just pay to get an operation done and wake up to be more cultured, compassionate, and suddenly know how to speak German.
 
 A lot of these problems are wholly representative of the self, in terms of both mind and body. They either require time to mold your brain, or they need years and years of exercise, practice, and dieting to improve athletic ability and physique. These are the types of problems that drive mathematicians, bodybuilders, entrepreneurs, artists, pro athletes, academic researchers, chess grandmasters, and just about any other type of high performer.
 
-What about talent? Not even the most talented individuals can shy away from putting in years and decades of work to their craft. Not one, not Michael Jordan or  tell you they got their skills overnight.
+What about talent? I refer to the cliché Michael Jordan quote to prove that even the most talented individuals can't get by without putting in the time:
+```
+I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.
+```
 
 ### TP=MP?
 
 It's interesting to think that before money came along, all problems were time problems. But even after money was invented, the pool of time problems has only been shrinking, and slowly being converted to money problems.
 
-One clear example of this is an international flight. Before planes, going across the Atlantic took months. Now you can do it in less than a day. 
+One clear example of this is an international flight. Before planes, going across the Atlantic took months. Now you can do it in less than a day.
 
 As technology advances, the more it seems that _TP=MP_ [[^4]], that is, more time problems are beginning to look like money problems. So what if we could simply pay some exorbitant amount of money for some chip to be implanted in our brain à la _Matrix_, and become an instant expert in Russian, Chess, 20th century French cuisine, or whatever we wanted? I argue that it's not all that unlikely that such a chip would exist in the future, to the horror (or delight?) of any Black Mirror fans.
 
-The earlier airplane example seems a bit contrived since it's a matter of physics (and not cognitive ability), but I'm sure a few centuries ago the ubiquitous and efficient nature of computers, the Internet, and more recently, machine learning, would've seemed impossible too. The problem of learning to play a complicated game like Go at highest level, which would take any human player years or decades, took AlphaGo only [40 days](https://deepmind.com/blog/article/alphago-zero-starting-scratch#:~:text=After%2040%20days%20of%20self,world%20number%20one%20Ke%20Jie) back in 2017. 
+The earlier airplane example seems a bit contrived since it's a matter of physics (and not cognitive ability), but I'm sure a few centuries ago the ubiquitous and efficient nature of computers, the Internet, and more recently, machine learning, would've seemed impossible too. The problem of learning to play a complicated game like Go at highest level, which would take any human player years or decades, took AlphaGo only [40 days](https://deepmind.com/blog/article/alphago-zero-starting-scratch#:~:text=After%2040%20days%20of%20self,world%20number%20one%20Ke%20Jie) back in 2017.
 
-Research and progress on brain-computer interfaces has been underway for several years now, most notably with companies like Elon Musk's [Neuralink](https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5) and Kernel [[^5]], and their claims are getting bolder and bolder [[^6]]. 
+Research and progress on brain-computer interfaces has been underway for several years now, most notably with companies like Elon Musk's [Neuralink](https://www.businessinsider.com/elon-musk-neuralink-brain-chip-put-in-human-within-year-2020-5) and Kernel [[^5]], and their claims are getting bolder and bolder [[^6]].
 
 As with any sort of progress in technology, it wouldn't be unreasonable to assume it will reach that point of being able to "download skills into our brain" at some point in our lifetime. Not saying it's a simple task by any means, but it almost seems inevitable given the pace of technology.
 
