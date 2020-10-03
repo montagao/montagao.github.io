@@ -20,7 +20,7 @@ trepidation, I now embark on what seems to me as the long and unforeseeable
 journey of my adult life.
 ```
 
-I mean, what I wrote was proper English, for sure. But it sure as hell didn't represent what I actually thought. I tried to write in a way that represented what my "idea" of writing should be, based on the books and articles I've read, instead of just writing from the top of my head, and not worrying what people though of it. I was still stuck in the doctrined mindset, as if I was writing for some teacher or organization, and not for myself.
+I mean, what I wrote was proper English, for sure. But it sure as hell didn't represent what I actually thought. I tried to write in a way that represented what my "idea" of writing should be, based on the books and articles I've read, instead of just writing from the top of my head, and not worrying what people thought of it. I was still stuck in the doctrined mindset, as if I was writing for some teacher or organization, and not for myself.
 
 Today when I write I constantly keep that thought in the back of my mind. I don't have to write the best prose, or come up with the best words, but as long as what I'm writing is as close to a one-to-one representation to my actual stream of thoughts, I consider the writing useful. I write to represent myself. The lack of filter, something that can't necessarily translate to a face-to-face conversation as easily, is one of the best merits of writing.
 
