@@ -5,7 +5,7 @@ description: what's an iron ring and why i wear mine
 layout: post
 ---
 
-In Canadian engineering schools, there's a longstanding tradition of receiving and wearing an iron ring upon completing your undergraduate engineering education - it's something we are told about from first year and something we look forward to until our senior year. It's supposed to remind us of our duty as professionals to maintain a high standard of ethics and humility as we progress in our careers, and our duty to protect and serve society. (If you want to read a boring blurb about that was written 100 years ago see [here](https://ironring.ca/background.php).)
+In Canadian engineering schools, there's a longstanding tradition of receiving and wearing an iron ring upon completing your undergraduate engineering education - it's something we are told about from first year and something we look forward to until our senior year. It's supposed to remind us of our duty as professionals to maintain a high standard of ethics and humility as we progress in our careers, and our duty to protect and serve society. (If you want to read a relevant boring blurb written 100 years ago see [here](https://ironring.ca/background.php).)
 
 For students, it usually has an altogether different meaning. It's a physical representation of the pain and struggle we endured for five years trying to work towards our goal. Long, sleepless nights of studying, practicing for interviews, and terrible group projects, all which make us question our decision of even going to University, let alone engineering.
 
