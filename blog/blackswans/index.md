@@ -56,21 +56,21 @@ The Barbell Strategy is where you take both a defensive position and an excessiv
 
 * Example: protect a portion of your assets from all sources of uncertainty, in something like treasury bonds, but at the same time allocate a small portion for extremely high risk strategies (highly speculative small cap stocks, cryptocurrencies)
 
-The rationale here is, like most strategies in the book, is that you want to take expose yourself to as many potential _positive_ black swan scenarios as possible while making sure that you protect yourself/avoid _negative_ black swan scenarios, where the downside is uncontrolled.
+The rationale here is, like most strategies in the book, is that you want expose yourself to as many potential _positive_ black swan scenarios as possible while making sure that you protect yourself/avoid _negative_ black swan scenarios, where the downside is uncontrolled.
 
- Examples of negative-Black Swan Businesses:
+ Examples of negative Black Swan Businesses:
 
  * Catastrophe insurance: best case scenario, collect premiums. Worst case scenario, you lose everything
 
 **TODO**: think of more positive and negative examples 🤔
 
- Examples of positive-Black Swan Businesses:
+ Examples of positive Black Swan Businesses:
 
 * Publishing
 * Venture Capital
 * scientific research
 
-Note that the payoff for these types of businesses/ventures is NOT possible to model with rules and probabilities (he argues), which is what defines them as Black Swans. He also stresses not to try and predict precise Black Swans (like going and only investing in the three things I just listed), but to try and keep your mind open.
+Note that the payoff for these types of businesses/ventures is NOT possible to model with rules and probabilities (he argues), which is what defines them as Black Swans. This is what distinguishes positive black swans from things like winning the lottery. He also stresses not to try and predict precise Black Swans (like going and only investing in the three things I just listed), but to try and keep your mind open.
 
 He offers a simple heuristic:
 
@@ -91,7 +91,7 @@ To paraphrase:
 
 * Don't run for missed trains - not matching the idea of success others expect from you is only painful if you seek their validations
 * Quit a high paying position if it will give you more freedom and control in your life and allow you to enjoy life to your own criterion
-* You are only exposed to the improbable to the extent that you let it control you - you always control what _you_ do so make this your end.
+* You are only exposed to the improbable to the extent that you let it control you - you always control what _you_ do so make this your end
 
 To this last point, it reminds me of one of my favorite quotes from _Meditations_  
 
