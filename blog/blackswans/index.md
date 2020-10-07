@@ -29,7 +29,7 @@ Note that he doesn't consider the COVID-19 pandemic a Black Swan since people we
 
 ### Platonicity
 
-Platonicity is the idea that humans create oversimplified mental models/concepts of things which are in reality much more nuanced, complicated and unpredictable, and that we rely on these "platonic" concepts a far too much when attempting make further models and decisions
+Platonicity is the idea that humans create oversimplified mental models/concepts of things which are in reality much more nuanced, complicated and unpredictable, and that we rely on these "platonic" concepts far too much when attempting make further models and decisions
 
 * Example: the classical [rational economic man](https://www.investopedia.com/terms/e/economic-man.asp)
 
