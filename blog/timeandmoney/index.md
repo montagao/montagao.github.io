@@ -1,5 +1,5 @@
 ---
-title: Money and Time Problems
+title: On Time and Money
 date: 2020-07-20
 description: Ramblings about how the rich will inevitably get richer in the future.
 layout: post

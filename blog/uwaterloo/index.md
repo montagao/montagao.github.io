@@ -1,5 +1,5 @@
 ---
-title: University of Waterloo in Review
+title: On University of Waterloo
 date: 2020-05-29
 description: Review of my time in Computer Engineering at UW
 layout: post

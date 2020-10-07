@@ -1,5 +1,5 @@
 ---
-title: Capstone
+title: On Capstones
 date: 2020-07-07
 description: Reflection on my final year capstone project, a Computer Vision powered Garden Sentry IoT device
 layout: post

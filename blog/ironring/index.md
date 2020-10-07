@@ -1,5 +1,5 @@
 ---
-title: Why I wear my Iron Ring
+title: On Iron Rings
 date: 2020-06-07
 description: what's an iron ring and why i wear mine
 layout: post

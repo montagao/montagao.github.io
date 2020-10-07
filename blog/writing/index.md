@@ -1,5 +1,5 @@
 ---
-title: Why write?
+title: On Writing
 date: 2020-06-13
 description: thoughts on writing
 layout: post
@@ -11,14 +11,9 @@ I also wasn't very good at it. Not that I didn't know how to write in English, o
 
 Here's the entry on my journal, marked September 13th, 2015
 
-```
-Tomorrow is the day I officially start at the University of Waterloo.
-In many ways I feel like many things have culminated to this point. While I
-hold sentiments of nervousness, fear, and loneliness, I also feel an intense
-sense of excitement, pride, and ambition. Uneasy and stepping forward with
-trepidation, I now embark on what seems to me as the long and unforeseeable
-journey of my adult life.
-```
+| Tomorrow is the day I officially start at the University of Waterloo.  In many ways I feel like many things have culminated to this point. While I hold sentiments of nervousness, fear, and loneliness, I also feel an intense sense of excitement, pride, and ambition. Uneasy and stepping forward with trepidation, I now embark on what seems to me as the long and unforeseeable journey of my adult life.  |
+|:--:|
+||
 
 I mean, what I wrote was proper English, for sure. But it sure as hell didn't represent what I actually thought. I tried to write in a way that represented what my "idea" of writing should be, based on the books and articles I've read, instead of just writing from the top of my head, and not worrying what people thought of it. I was still stuck in the doctrined mindset, as if I was writing for some teacher or organization, and not for myself.
 
