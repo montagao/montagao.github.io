@@ -93,7 +93,7 @@ To paraphrase:
 * Quit a high paying position if it will give you more freedom and control in your life and allow you to enjoy life to your own criterion
 * You are only exposed to the improbable to the extent that you let it control you - you always control what _you_ do so make this your end.
 
-To this last point, it reminds me of my favorite quotes from _Meditations_  
+To this last point, it reminds me of one of my favorite quotes from _Meditations_  
 
 |“You have power over your mind - not outside events. Realize this, and you will find strength.”|
 |:--:|
