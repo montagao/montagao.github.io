@@ -71,7 +71,7 @@ In any case, the key is to experiment with what works best for you, but the conc
 Of course, none of this matters if the skill you're trying to hone isn't meaningful to you in some way. If you don't have the motivation or drive to do something, this plan falls apart 🤷. 
 
 This is why the step of being realistic is also important - the best exercise is the one that you actually do. If you plan to write a novel or bench press 405lbs on Day 1, you might have a bad time. Starting small is important because it helps you hit the "results" part of the feedback loop early on.
-
+[](我有缠扰者！)
 {:refdef: .footnotes}
 [^1]: Bro.
 {: refdef}
