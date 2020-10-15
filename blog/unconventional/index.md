@@ -43,13 +43,13 @@ Think about what being unconventional means to you currently, and if maybe there
 
 |![Hanging Out](https://i.imgur.com/bpXlG4B.jpg)|
 |:--:|
-|*As for me, there's nothing like literally flipping my world upside down from time to time to get a new perspective.*|
+|*There's nothing like literally flipping my world upside down from time to time to get a new perspective.*|
 
 {:refdef: .footnotes}
 
 [^1]: [See: Inversion Therapy](https://en.wikipedia.org/wiki/Inversion_therapy) - Note: I am not a physiotherapist or a medical professional in any capacity. Do your own research and understand the How do these relates
 [^2]: Can't really comment on the girls' perspective, although I'm told it's not all that different 
-[^3]: [Study on inversion therapy relieving back pain](https://sci-hub.tw/10.3233/ies-130506)
+[^3]: [Study on inversion therapy relieving back pain](https://content.iospress.com/articles/isokinetics-and-exercise-science/ies00506)
 [^4]: [Health Benefits of Garlic](https://www.aafp.org/afp/2005/0701/p103.html) (In most asian households this is common knowledge, but still, not that many people eat raw garlic)
 [^5]: [Antioxidant content of Raw honey](https://www.sciencedirect.com/science/article/abs/pii/S0308814605003262)
 
