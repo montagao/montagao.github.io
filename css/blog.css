@@ -11,6 +11,10 @@
   background: url("/blog/feed.png") no-repeat 0 50%;
 }
 
+img[alt=sluggish] {
+	width: 500px;
+}
+
 .closing {
 	font-size: 0.7em;
 	border-top: 1px solid grey;
@@ -154,3 +158,5 @@ table {
 		padding-right: 0;
 	}
 }
+
+
