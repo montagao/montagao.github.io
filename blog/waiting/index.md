@@ -6,14 +6,16 @@ layout: post
 tags: creative
 ---
 
-On one scorching summer day in Ottawa, I remember waiting for a bus. This particular bus was always late, and always disappointing. But still I waited, since I had no other way of getting home. The arrival of the bus was completely out of my hands, yet it had complete control of my life, each and every day, for about 10-20 minutes. 
+On one scorching summer day in Ottawa, I remember waiting for a bus. This particular bus was always late, and always disappointing. But still, I waited, since I had no other way of getting home. The arrival of the bus was completely out of my hands, yet it had complete control of my life, each and every day, for about 10-20 minutes. 
 
-It's a funny thing, isn't it? Strangers waiting for a bus. Even more fun when there's no way to tell when it will arrive. You can feel everyone get slightly more and more antsy the longer they wait.
+It's a funny thing, isn't it? 
 
-Ten minutes pass. Then fifteen. After twenty minutes, you can feel the air becoming heavy with a little frustation. We're not *physically* trapped, yet it feels that way. 
-At this point, it's all sunk cost, and we're all betting that as soon as we leave the bus it will come strutting by and sneer at us.
+Strangers waiting for a bus. Even more fun when there's no way to tell when it will arrive. You can feel everyone get slightly more and more antsy the longer they wait.
 
-In some ways it's a real metaphysical routine. We're all connected, depending on the same thing, with all the same short term purpose: *Get me out of here, get me where I need to go.* 
+Ten minutes pass. Then fifteen. After twenty minutes, you can feel the air becoming heavy with a little frustration. We're not *physically* trapped, yet it feels that way. 
+At this point, it's all sunk cost, and we're all betting that as soon as we leave, the bus will come strutting by and sneer at us.
+
+In some ways, it's a real metaphysical routine. We're all connected, depending on the same thing, with all the same short term purpose: *Get me out of here, get me where I need to go.* 
 
 Our lives intertwine for that entire block of time, usually without saying a word. It never seems right to start a conversation with a stranger at a bus stop. There's a sense of hurry, and people aren't in the best of moods. They're probably either coming from a long day of work, or just about to head into one.
 
