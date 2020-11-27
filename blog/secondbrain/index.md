@@ -67,7 +67,8 @@ Originally, Brain 2 was spawned out of a yearning for decent note taking/journal
 * **It's fun**
 	* It's fun and interesting to introspect on oneself! Especially if you write with that goal in mind.
 
-* In the event of amnesia, you have a partial backup of your brain
+* **In the event of amnesia, you have a partial backup of your brain**
+	* Knock yourself out!
 
 ### Cons of Brain 2
 
