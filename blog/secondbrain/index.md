@@ -42,7 +42,7 @@ Each result represents a journal entry, and if I open the journal entry up I can
 
 Of course, with a little magic, you could create even more elaborate data visualizations, like charting occurrences of the word over time, and compare occurrences with occurrences of other words, making word clouds, etc. 
 
-Just like with any kind of data, transforming and using it has a lot of possibilities, and on any \*nix based OS text based files are [trivial to transform](https://tldp.org/LDP/abs/html/textproc.html).
+Just like with any kind of data, transforming and using it has a lot of possibilities, and on any \*nix OS, text based files are [trivial to transform](https://tldp.org/LDP/abs/html/textproc.html).
 
 ### Pros of Brain 2
 
