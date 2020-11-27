@@ -63,8 +63,11 @@ Originally, Brain 2 was spawned out of a yearning for decent note taking/journal
 
 * **Expand your working memory by writing more to Brain 2**
 	* This one is less proved, but anecdotally I've found that the more I write things down, the better my working memory seems to improve. Maybe it's an exercise in recall? Or maybe since we're dumping things in Brain 2 we subconsciously flush them out of Brain 1?
+
 * **It's fun**
 	* It's fun and interesting to introspect on oneself! Especially if you write with that goal in mind.
+
+* In the event of amnesia, you have a partial backup of your brain
 
 ### Cons of Brain 2
 
