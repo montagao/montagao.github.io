@@ -5,12 +5,12 @@ description: top 5 reasons to get a home gym
 layout: post
 ---
 
-With COVID-19 lockdowns being implemented and gyms shutting down, people are buying home gym supplies in droves (driving up prices to insane prices) in hopes of maintaining shape for the long winter to come.
+With COVID-19 lockdowns being implemented and gyms shutting down, people are buying home gym supplies in droves (driving up the price of dumbbells to [$1000 a pair](https://www.amazon.ca/dp/B0746TQMKT/ref=s9_acsd_omwf_hd_bw_b2f41cx_c2_x_0_t?pf_rd_m=A1IM4EOPHS76S7&pf_rd_s=merchandised-search-11&pf_rd_r=5TCFZY73GMYAT2K0DS8A&pf_rd_t=101&pf_rd_p=f461ddb8-4dc7-5b6c-ac3a-dc184c54a3a5&pf_rd_i=2439055011)) in hopes of maintaining shape for the long winter to come.
 
 But is a home gym all that great? (Short answer? Yes.)
 
 
-As a short term home gym owner [[^1]], but long time bro, I feel qualified to answer, so I've spent some time thinking of the top 5 reasons why someone should get a home gym.
+As a small time home gym owner [[^1]], but big time bro, I feel qualified to answer, so I've spent some time thinking of the top five reasons why someone should get a home gym.
 
 ### 1. To Blast Terrible Music 
 
@@ -78,7 +78,7 @@ One of the most important pillars of fitness is recovery.
 
 What better way to ensure that a quality night's sleep than making your _gym_ your _bedroom_? 
 
-Plus you can rent out your actual bedroom to earn some money on the side.
+Plus you can rent out your actual bedroom to earn some money on the side to help pay for $1000 pair of dumbbells you bought.
 
 Make sure to position your ~~bench press~~ bed right under your barbell so that you can do a couple sets immediately after waking up! 
 
