@@ -76,7 +76,7 @@ Fat molecules in your body are like ants in your house. You gotta get rid of the
 
 One of the most important pillars of fitness is recovery.
 
-What better way to ensure that a quality night's sleep than making your _gym_ your _bedroom_? 
+What better way to ensure a quality night's sleep than making your _gym_ your _bedroom_? 
 
 Plus you can rent out your actual bedroom to earn some money on the side to help pay for $1000 pair of dumbbells you bought.
 
