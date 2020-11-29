@@ -1,6 +1,6 @@
 ---
 title: On Having Two Brains
-date: 2020-11-14
+date: 2020-11-27
 description: how to maximize memory and recall
 layout: post
 tags: code, productivity
