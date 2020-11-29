@@ -1,5 +1,5 @@
 ---
-title: 5 Reasons To Get A Home Gym
+title: On 5 Reasons To Get A Home Gym
 date: 2020-11-28
 description: top 5 reasons to get a home gym
 layout: post
