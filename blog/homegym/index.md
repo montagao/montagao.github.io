@@ -78,7 +78,7 @@ One of the most important pillars of fitness is recovery.
 
 What better way to ensure a quality night's sleep than making your _gym_ your _bedroom_? 
 
-Plus you can rent out your actual bedroom to earn some money on the side to help pay for $1000 pair of dumbbells you bought.
+Plus you can rent out your actual bedroom to earn some money on the side to help pay for the $1000 pair of dumbbells you bought.
 
 Make sure to position your ~~bench press~~ bed right under your barbell so that you can do a couple sets immediately after waking up! 
 
