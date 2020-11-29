@@ -73,10 +73,10 @@ Originally, Brain 2 was spawned out of a yearning for decent note taking/journal
 ### Cons of Brain 2
 
 * **Time consuming**
-	* To get full value, Brain 2 requires a lot of writing.  That translates to usually at least 30 minutes to an hour of day, on top of any other creative writing that you might do. I've found that doing this early in the morning is the best way to map your thoughts clearly, usually write after getting out of bed before you've talked to anyone else.
+	* To get full value, Brain 2 requires a lot of writing.  That translates to usually at least 30 minutes to an hour of day, on top of any other creative writing that you might do. I've found that doing this early in the morning is the best way to map your thoughts clearly, usually right after getting out of bed before I've talked to anyone else.
 
 * **No handwriting removes personality**
-	* As bad as my handwriting is, it's identifiably *me*. You lose some of that when typing, but I guess it just means I have to have make my writing style even more identifiable.
+	* As bad as my handwriting is, it's identifiably *me*. You lose some of that when typing, but I guess it just means I have to make my writing style even more identifiable.
 
 * **Hurr Durr**
 	* Brain 2 is dumb. It won't think for you, it just stores 1s and 0s that capture your stream of consciousness at a snapshot in time. Your real brain still has to do all the heavy lifting to draw conclusions, solve problems, plan for the future, etc. - _but_ it can use Brain 2 as a reference!
