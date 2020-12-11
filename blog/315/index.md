@@ -21,7 +21,7 @@ Maybe it's just me then. But let's start from the beginning.
 
 I remember always hating gym class. 
 
-In elementary school I was the slightly chubby kid with glasses that people picked last whenever we played softball. In middle school I started to fit myself into the "guy who only reads books and plays videogames" box and was content with fitting there, for the time being. In high school, the highest mark I got in a PE class was a project for the sex ed. portion of the curriculum, which involved making colorful brochures about STDs.
+In elementary school I was the slightly chubby kid with glasses that people picked last whenever we played softball. In middle school I started to fit myself into the "guy who only reads books and plays video games" box and was content with fitting there, for the time being. In high school, the highest mark I got in a PE class was a project for the sex ed. portion of the curriculum, which involved making colorful brochures about STDs.
 
 The most exercise I used to get was when my dad would force me to a do a push up for every minute of screen time I wanted on the computer [[^2]], or make me shovel snow in the winter. 
 
@@ -137,9 +137,9 @@ _What now?_
 |:--:|
 |_Socrates_|
 
-Like most people, 2020 shook up my routine a bit. I stopped lifting for a few months completely - I couldn't, even if I wanted to, because of the lockdowns. Like much of the rest of the world, I also got a bit distracted by the possibility of impending doom of civilization as we knew it.
+Like most people, 2020 shook up my routine a bit. I stopped lifting for a few months completely - I couldn't, even if I wanted to, because of the lock downs. Like much of the rest of the world, I also got a bit distracted by the possibility of impending doom of civilization as we knew it.
 
-Some time in March, I figured that if the world is gonna end, I might as well go and buy a home gym. And I soon learned that buying gym equipment as an adult was basically like buying legos as a kid, and I got excited with each new purchase: my gravity boots, my olympic rings, a lifting belt, fat grips, etc.
+Some time in March, I figured that if the world is gonna end, I might as well go and buy a home gym. And I soon learned that buying gym equipment as an adult was basically like buying legos as a kid, and I got excited with each new purchase: my gravity boots, my Olympic rings, a lifting belt, fat grips, etc.
 
 For the rest of the year, I focused on process and not goals. I realized that even after benching for what seemed like so long, every single session I could improve my technique in some way, whether that was my breathing, my stance, or manipulating my mindset and condition before the lift itself. 
 
