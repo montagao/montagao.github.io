@@ -1,5 +1,5 @@
 ---
-title: On Three Fifteen
+title: On 315
 date: 2020-12-11
 description: reflections on weight lifting
 layout: post
