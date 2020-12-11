@@ -159,9 +159,9 @@ Maybe the term **antifragile** is appropriate here.
 
 Antifragile (as coined by Nassim Taleb) is defined as the true opposite of _fragile_: a system that improves and benefits after being exposed to shocks, stressors, and disorders, which is what lifting really heavy weights basically revolves around.
 
-But I believe the antifragility that lifting weights brings you translates well into mental strength. Mental anchors work. The feeling of elation you get from breaking a new personal record in the gym carries itself into everything you do. 
+But I believe the antifragility that lifting weights brings you translates well into mental strength. Anchors work. The feeling of elation you get from breaking a new personal record in the gym carries itself into everything you do. 
 
-Because at the end of the day, I belive in treating the mind and the body as a whole, and something that benefits from continual improvements of either aspect.
+Because at the end of the day, I believe in treating the mind and the body as a whole, and something that benefits from continual improvements of either aspect.
 
 {:reffed: .footnotes}
 [^1]: It just so happens that the standard plate is 45 lbs and the standard bar is also 45 lbs. 
