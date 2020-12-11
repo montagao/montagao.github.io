@@ -1,5 +1,5 @@
 ---
-title: On Three Fifteen
+title: On 315
 date: 2020-12-11
 description: reflections on weight lifting
 layout: post
@@ -125,7 +125,7 @@ It seemed like the stars aligned at this point, I kinda knew what I was doing no
 | _Ez flex_ |
 
 
-On July 19th, 2018, nearly two years after I started going to the gym, I hit 2 plates. 225lbs. After countless weeks of 205, 215, 220, I did it, and I felt like a graduated from some School of Iron.
+On July 19th, 2018, nearly two years after I started going to the gym, I hit 2 plates. 225lbs. After countless weeks of 205, 215, 220, I did it, and I felt like a graduated from the School of Iron.
 
 But like most new grads, my brain again shifted to another place.
 
