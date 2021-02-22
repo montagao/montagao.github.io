@@ -1,7 +1,7 @@
 ---
 title: On Doing The Right Things
 date: 2021-2-21
-description: Reflection of my thoughts on Nicholas Taleb's book, The Black Swan
+description: habits, systems, deep work
 layout: post
 ---
 
