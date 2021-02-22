@@ -1,6 +1,6 @@
 ---
 title: On Doing The Right Things
-date: 2021-2-21
+date: 2021-02-21
 description: habits, systems, deep work
 layout: post
 ---
